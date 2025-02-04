@@ -22,7 +22,12 @@ function createHomePage() {
       <h1>Welcome to PowerShit.xyz</h1>
       <p class="subtext">Where memes take down power. Own it. Trade it. Govern it.</p>
       <img src="/img/logo.png" alt="PowerShit.xyz Logo" class="logo"/>
-      <p class="contract-info"><strong>Contract Address:</strong> <span class="highlight">Coming Soon...</span></p>
+      <p class="contract-info">
+        <strong>Contract Address:</strong> 
+        <span class="highlight">62mUZZVGkkfhAer9ASksXfvwdrUE9bV5QrPUBouQpump</span>
+      </p>
+      <a href="https://pump.fun/coin/62mUZZVGkkfhAer9ASksXfvwdrUE9bV5QrPUBouQpump" 
+         class="buy-btn" target="_blank" rel="noopener noreferrer">💰 Buy $PIS</a>
     </div>
   `;
 }
