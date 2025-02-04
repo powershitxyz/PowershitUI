@@ -1,6 +1,6 @@
 # PowerShit.xyz - Meme Revolution
 
-Welcome to **PowerShit.xyz ($PS)**, the decentralized meme-driven movement designed to disrupt and satirize global power structures. This project is fully community-driven and thrives on the power of collective expression and humor.
+Welcome to **PowerShit.xyz ($PIS)**, the decentralized meme-driven movement designed to disrupt and satirize global power structures. This project is fully community-driven and thrives on the power of collective expression and humor.
 
 ## 🎨 Design Philosophy
 - **Dark Aesthetic with Red Accents:** Represents rebellion, chaos, and satire, embracing the nature of decentralized communities.
@@ -9,7 +9,7 @@ Welcome to **PowerShit.xyz ($PS)**, the decentralized meme-driven movement desig
 - **Minimalist Yet Impactful Layout:** A simple but effective UI that highlights key messages without clutter.
 
 ## 🚀 Core Concept
-- **A Satirical Web3 Identity** – $PS is not just a token; it's a cultural statement.
+- **A Satirical Web3 Identity** – $PIS is not just a token; it's a cultural statement.
 - **Decentralized Governance** – Every holder has a voice in shaping the direction of the project.
 - **Community-Powered Content** – Viral memes and campaigns define the growth strategy.
 - **Prediction Market (Coming Soon)** – Bringing real-world influence into the crypto space.
