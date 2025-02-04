@@ -1,0 +1,122 @@
+/* General Styles */
+body {
+  font-family: 'Arial', sans-serif;
+  background-color: #0d0d0d;
+  color: #fff;
+  margin: 0;
+  padding: 0;
+  text-align: center;
+}
+
+.container {
+  max-width: 1000px;
+  margin: 0 auto;
+  padding: 40px 20px;
+}
+
+/* Navbar */
+.navbar {
+  display: flex;
+  justify-content: center;
+  gap: 15px;
+  background: linear-gradient(90deg, #ff4444, #aa0000);
+  padding: 15px;
+  border-radius: 10px;
+  margin-bottom: 30px;
+  box-shadow: 0 4px 10px rgba(255, 0, 0, 0.3);
+}
+
+.nav-btn {
+  background: rgba(0, 0, 0, 0.2);
+  color: #fff;
+  border: 2px solid rgba(255, 255, 255, 0.3);
+  padding: 12px 24px;
+  cursor: pointer;
+  border-radius: 8px;
+  font-weight: bold;
+  font-size: 1rem;
+  transition: all 0.3s ease;
+}
+
+.nav-btn:hover {
+  background: rgba(255, 255, 255, 0.2);
+  border-color: white;
+}
+
+/* Sections */
+.section {
+  display: none;
+  padding: 40px;
+  background: rgba(26, 26, 26, 0.95);
+  border-radius: 12px;
+  margin-top: 30px;
+  box-shadow: 0px 0px 15px rgba(255, 0, 0, 0.4);
+  transition: all 0.3s ease;
+}
+
+.section h2 {
+  color: #ff4444;
+  font-size: 2.2rem;
+  margin-bottom: 15px;
+}
+
+.section p {
+  font-size: 1.3em;
+  color: #ddd;
+  margin-bottom: 20px;
+  line-height: 1.6;
+}
+
+.section ul {
+  list-style-type: none;
+  padding: 0;
+}
+
+.section ul li {
+  padding: 15px;
+  background: rgba(255, 255, 255, 0.1);
+  margin: 10px 0;
+  border-radius: 6px;
+  color: #ff4444;
+  font-weight: bold;
+  font-size: 1.2rem;
+  text-align: left;
+}
+
+/* Show the active section */
+.section:not(.hidden) {
+  display: block;
+  animation: fadeIn 0.5s ease-in-out;
+}
+
+@keyframes fadeIn {
+  from {
+      opacity: 0;
+      transform: translateY(10px);
+  }
+  to {
+      opacity: 1;
+      transform: translateY(0);
+  }
+}
+
+/* Image Styling */
+.section img {
+  width: 100%;
+  max-height: 300px;
+  object-fit: cover;
+  border-radius: 10px;
+  margin-top: 20px;
+  box-shadow: 0 4px 10px rgba(255, 0, 0, 0.3);
+}
+
+/* Footer */
+.footer {
+  margin-top: 50px;
+  padding: 20px;
+  background: rgba(255, 0, 0, 0.2);
+  border-radius: 10px;
+  font-size: 1em;
+  color: #bbb;
+  text-shadow: 0px 0px 5px rgba(255, 0, 0, 0.5);
+}
