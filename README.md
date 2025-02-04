@@ -22,7 +22,7 @@ Welcome to **PowerShit.xyz ($PIS)**, the decentralized meme-driven movement desi
 ## 📢 Community & Engagement
 PowerShit.xyz thrives on engagement and participation. Our website serves as a hub for decentralized meme governance and viral marketing.
 
-- **Twitter/X:** [@PowerShitXYZ](https://twitter.com/powershit)
+- **Twitter/X:** [@PowerShitXYZ](https://twitter.com/powershitxyz)
 - **Telegram:** [Join Telegram](https://t.me/powershitxyz)
 
 ## 💡 Final Thought
