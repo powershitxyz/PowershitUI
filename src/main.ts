@@ -21,7 +21,7 @@ function createHomePage() {
     <div class="section" id="home">
       <h1>Welcome to PowerShit.xyz</h1>
       <p class="subtext">Where memes take down power. Own it. Trade it. Govern it.</p>
-      <img src="/images/logo.png" alt="PowerShit.xyz Logo" class="logo"/>
+      <img src="/img/logo.png" alt="PowerShit.xyz Logo" class="logo"/>
       <p class="contract-info"><strong>Contract Address:</strong> <span class="highlight">Coming Soon...</span></p>
     </div>
   `;
