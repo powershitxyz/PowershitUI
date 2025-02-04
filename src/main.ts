@@ -68,9 +68,8 @@ function createFooter() {
     <footer class="footer">
       <p>Visit us at <a href="https://powershit.xyz" target="_blank">PowerShit.xyz</a></p>
       <p>Follow us for updates:</p>
-      <a href="https://twitter.com/PIS" target="_blank" class="social-link">Twitter</a>
-      <a href="https://t.me/PISCommunity" target="_blank" class="social-link">Telegram</a>
-      <a href="https://discord.gg/PIS" target="_blank" class="social-link">Discord</a>
+      <a href="https://x.com/powershitxyz" target="_blank" class="social-link">Twitter</a>
+      <a href="https://t.me/powershitxyz" target="_blank" class="social-link">Telegram</a>
       <p class="subtle-hint">Unexpected holders may arise. Stay tuned for market surprises.</p>
     </footer>
   `;
